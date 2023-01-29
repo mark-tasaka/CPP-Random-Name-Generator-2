@@ -5,6 +5,12 @@ The C++ Random Name Generator Version 2 is an object-oriented program designed w
 
 ----------------
 
+
+Update 1.01: 2023-01-28
+
+Updates to existing code.
+
+
 Initial commit: 2023-01-26
 
 The initial commit for the C++ Random Name Generator 2.
